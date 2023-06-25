@@ -1,7 +1,7 @@
 # langchain_learning
 
 
-记录学习LangChain框架的过程
+记录学习[LangChain](https://github.com/hwchase17/langchain)框架的过程
 
 博客地址：[https://www.xiaominfo.com/langchain](https://www.xiaominfo.com/langchain)
 
