@@ -1,0 +1,12 @@
+{
+	"Print to console": {
+		"prefix": "main",
+		"body": [
+			"if __name__ == '__main__':",
+			"    ${1:pass}",
+			"",
+		],
+		"description": "python--main"
+	}
+}
+
